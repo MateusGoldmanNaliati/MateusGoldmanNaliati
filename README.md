@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://x.com/GoldmanNaliatti" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" width="45" height="40" alt="twitter logo" />
   </a>
   <a href="https://orcid.org/0009-0008-3094-9029" target="orcid.widget" rel="me noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="52" height="40" alt="ORCID iD icon" style="margin-inline-start: 0.8em" />
