@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- backend developer<br>- Systems Analyst<br>- Web Programmer<br>- Having 2 years of development experience</p>
+<p align="left">- backend developer<br>- Systems Analyst<br>- Web Developer<br>- Having 2 years of development experience</p>
 
 ###
 
