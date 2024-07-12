@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Java developer<br>- Systems Analyst<br>- Freelance programmer<br>- Having 2 years of IT experience</p>
+<p align="left">- backend developer<br>- Systems Analyst<br>- Programmer<br>- Having 2 years of development experience</p>
 
 ###
 
